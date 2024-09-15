@@ -37,14 +37,8 @@ In this project, we implement a **Portfolio Optimization** model using historica
 
 The final result is a portfolio allocation that offers the optimal balance of risk and return. The notebook generates visualizations of the efficient frontier and provides the optimized portfolio's key statistics, such as expected return and risk.
 
-## Contributions
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/yourusername/portfolio-optimization/issues).
+Disclaimer
 
-## License
-
-This project is licensed under the MIT License.
-
+This project is for educational purposes only. The trading strategies and data used in this project are meant for learning and experimentation. No financial or investment advice is provided. Use this project at your own risk, and ensure that you do thorough research before engaging in live trading. The authors of this project are not responsible for any financial losses incurred by using the provided code.
 ---
-
-You can modify this template to better fit your project once all the code and results are analyzed in detail. Let me know if you'd like more customization!
